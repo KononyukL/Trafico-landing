@@ -12,7 +12,7 @@ body {
 }
 
 .top {
-  background: url("/assets/icons/Scene.png") center/cover no-repeat;
+  background: url("assets/icons/Scene.png") center/cover no-repeat;
 }
 
 .header {
